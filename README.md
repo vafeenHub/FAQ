@@ -205,3 +205,9 @@ gsettings set org.gnome.desktop.interface enable-hot-corners false
 
 Линукс спящий режим 
 https://fostips.com/automatic-suspend-idle-time-less-15-min-ubuntu-fedora-debian/
+
+
+Dev containers runs wsl during starting vscode
+Dev contaienrs запускает wsl при старте vscode
+Отключить
+![alt text](image.png)
