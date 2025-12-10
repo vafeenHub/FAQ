@@ -332,6 +332,8 @@ https://askubuntu.com/questions/1205527/how-to-copy-area-screenshot-to-clipboard
 
 ---
 
-KDE configure window behavior 
+KDE configure window behavior
+
 KDE настройка поведения окон
+
 https://www.youtube.com/watch?v=PyyxQYkloLo
