@@ -338,3 +338,23 @@ KDE configure window behavior
 KDE настройка поведения окон
 
 https://www.youtube.com/watch?v=PyyxQYkloLo
+
+--- 
+
+Drag and Drop not working flatpak app 
+
+```
+flatpak override --user --filesystem=home com.mocrosoft.Edge
+flatpak override --user --filesystem=xdg-download com.mocrosoft.Edge
+```
+
+Maybe it will help for other package managers:
+
+```
+sudo snap connect chrome:home
+sudo snap connect firefox:home
+
+# Or remove snap and install deb-version
+sudo snap remove firefox
+sudo apt install firefox
+```
