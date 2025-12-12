@@ -1,94 +1,94 @@
 # FAQ
 
 
-Запуск программы только с правами администратора C++ 
+# Запуск программы только с правами администратора C++ 
 https://learn.microsoft.com/en-us/cpp/build/reference/manifestuac-embeds-uac-information-in-manifest?redirectedfrom=MSDN&view=msvc-170
 
 ---
 
-Отключение нумерации списков Word
+# Отключение нумерации списков Word
 https://office-guru.ru/word/kak-otklyuchit-avtomaticheskoe-sozdanie-numerovannyh-spiskov-v-word-2013-82.html
 
 ---
 
-Настройки json файлов vscode
+# Настройки json файлов vscode
 https://code.visualstudio.com/docs/editor/variables-reference
 
 ---
 
-Настройка принтера
+# Настройка принтера
 https://printerp.ru/info/kak-ustanovit-printer-bez-diska.html
 
 ---
 
-Mingw64
+# Mingw64
 https://osdn.net/projects/sfnet_mingw-w64/releases/
 
 ---
 
-Проблема с gcc
+# Проблема с gcc
 https://stackoverflow.com/questions/62600341/how-to-tell-gcc-to-not-align-function-parameters-on-the-stack
 
 ---
 
-Тестирование утечек памяти
+# Тестирование утечек памяти
 https://ru.m.wikipedia.org/wiki/Valgrind
 
 ---
 
-Работа с git for vscode
+# Работа с git for vscode
 https://codelab.pro/kak-podklyuchit-github-k-visual-studio-code/
 https://codelab.pro/video/kak-podklyuchit-github-k-visual-studio-code/
 
 ---
 
-Работа с git bash
+# Работа с git bash
 https://www.youtube.com/watch?v=zZBiln_2FhM&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD
 
 ---
 
-Откат к commit'ам
+# Откат к commit'ам
 https://www.youtube.com/watch?v=NMh4u5tyDC4&ab_channel=ITDoctor
 
 ---
 
-Переназначение клавиш 
+# Переназначение клавиш 
 https://github.com/microsoft/PowerToys/releases/tag/v0.74.1
 
 ---
 
-Установка TEX for VScode 
+# Установка TEX for VScode 
 https://www.youtube.com/watch?v=4lyHIQl4VM8&t=1s&ab_channel=FedericoTartarini
 
 ---
 
-Переопределение приложений контекстного меню(открыть с помощью)
+# Переопределение приложений контекстного меню(открыть с помощью)
 https://it-tehnik.ru/windows10/ispolzovanie/redaktirovat-kontekstnoe-menyu.html
 
 ---
 
-Открыть с помощью Android Studio
+# Открыть с помощью Android Studio
 https://stackoverflow.com/questions/61036255/open-folder-as-android-studio-project
 
 ---
 
-Как изменить цвет шрифта в Obsidian 
+# Как изменить цвет шрифта в Obsidian 
 https://talk.macpowerusers.com/t/modifying-fonts-in-obsidian-themes/22151
 
 ---
 
-VScode для всех пользователей 
+# VScode для всех пользователей 
 https://stackoverflow.com/questions/52677564/install-vscode-for-all-users
 
 ---
 
-Мои темы VScode
+# Мои темы VScode
 https://vscodethemes.com/e/lkytal.flatui/flatui-dark?language=javascript
 https://vscodethemes.com/e/avzcp4.vuewave/vuewave?language=javascript
 
 ---
 
-Активация Windows
+# Активация Windows
 ```cpp
 system("slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99");
 system("slmgr /skms kms8.msguides.com");
@@ -97,7 +97,7 @@ system("slmgr /ato");
 
 ---
 
-WinDirStat, чтобы определить очаг загрязнения 
+# WinDirStat, чтобы определить очаг загрязнения 
 
 ---
 
