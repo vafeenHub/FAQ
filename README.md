@@ -380,3 +380,9 @@ https://debianforum.ru/index.php?PHPSESSID=faf69c1eb7baff399be67675578b9fee&msg=
 ```
 sudo chown -R $USER:$USER /home/a/
 ```
+
+---
+
+Dagger viewModel 
+
+https://stackoverflow.com/questions/77137691/jetpack-compose-and-di-with-dagger-2
